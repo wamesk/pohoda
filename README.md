@@ -1,3 +1,3 @@
 # Pohoda
 
-integration of the accounting program Pohoda into Laravel
+PHP integration of the accounting program Pohoda
