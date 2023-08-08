@@ -1,0 +1,27 @@
+{
+    "name": "wamesk/pohoda",
+    "description": "PHP integration of the accounting program Pohoda.",
+    "keywords": [
+        "pohoda"
+    ],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WAME s.r.o.",
+            "homepage": "https://wame.sk"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+    },
+    "autoload": {
+        "psr-4": {
+            "Wame\\Pohoda\\": "src/"
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
